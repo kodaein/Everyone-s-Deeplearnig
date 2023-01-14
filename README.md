@@ -1,8 +1,8 @@
 # Everyone-s-Deeplearnig
 
 ### Summary
-this is my coding study dally record.
+this is my coding study journal.
 
-I read a book of everyone's deeplearning and summary important content.
+I read Everyone's Deeplearning and organized the important content.
 
-it discuss how we can start deeplearning and develop coding skills.
+It discuss how we can start deeplearning and develop coding skills.

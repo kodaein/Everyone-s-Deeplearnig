@@ -1,4 +1,4 @@
-# Everyone-s-Deeplearnig
+# Everyone's Deeplearnig
 
 ### Summary
 this is my coding study journal.

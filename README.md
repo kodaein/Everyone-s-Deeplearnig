@@ -1,8 +1,5 @@
 # Everyone's Deeplearnig
 
-### Summary
-this is my coding study journal.
-
-I read Everyone's Deeplearning and organized the important content.
-
-It discusses how we can start deeplearning and develop coding skills.
+### 목차
+1. 나의 첫 딥러닝
+2. 딥러닝을 위한 기초 
